@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoninvasiveMVC4Testing", "NoninvasiveMVC4Testing\NoninvasiveMVC4Testing.csproj", "{C72903DE-727D-48B2-BAFA-AA28F03CD470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoninvasiveMVC4Testing.Tests", "NoninvasiveMVC4Testing.Tests\NoninvasiveMVC4Testing.Tests.csproj", "{8C8D6420-776E-42B1-A166-53F1D3B05B58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C8D6420-776E-42B1-A166-53F1D3B05B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8D6420-776E-42B1-A166-53F1D3B05B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8D6420-776E-42B1-A166-53F1D3B05B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8D6420-776E-42B1-A166-53F1D3B05B58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C72903DE-727D-48B2-BAFA-AA28F03CD470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72903DE-727D-48B2-BAFA-AA28F03CD470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72903DE-727D-48B2-BAFA-AA28F03CD470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72903DE-727D-48B2-BAFA-AA28F03CD470}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
